@@ -1,12 +1,12 @@
-# Segmentation-Analysis-on-German-Credit-data-classification-
+# Segmentation-Analysis-on-German-Credit-data
 
-Project description: segment credit card customers into different risk profiles using xgboost technique 
+Project description: classify credit card customers into different risk profiles using xgboost technique 
 
-• Translate the missing values in the dataset using drop, replace and getdummie functions to set missing data to zero for 
-simple visualisation in xgboost tree later 
-• Split the data into training and testing datasets using stratification, setting categorical data to binary values using one-hot 
-encoding method to tailor the customer profile neatly 
-• Optimize the parameters using cross validation and interpret the optimized xgboost model to increase the accuracy for the 
-testing data prediction  
+
+•	Impute the missing values, split the data into training and test datasets, applied one hot-encoding techniques, maximized the performance of XGboost model through hyper parameter tuning in python
+
+•	Generate insights in the workflow of Risk Analysis regarding to different applicant
+
+
 
  
